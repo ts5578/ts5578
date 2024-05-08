@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tanishabbsr@gmail.com**
 
-- ⚡ Fun fact **I am doing a computer science because I want a cool desktop setup.**
+- ⚡ Fun fact **I am doing a computer science degree because I want a cool desk setup.**
 
 
 ###
