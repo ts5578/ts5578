@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
-<h3 align="center">An aspiring Cloud Engineer</h3>
+<h3 align="center">Something Cool</h3>
 
-- 🌱 I’m currently learning **Cloud and DevOps**
+- 🌱 I’m currently learning **Cybersecurity and ML**
 
 - 📫 How to reach me **tanishabbsr@gmail.com**
 
